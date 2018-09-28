@@ -1,0 +1,33 @@
+Assignment 1
+
+1.	Able to customize steering wheel button functions
+2.	Slider control changes based on current activity
+3.	Driving habits and the resulting power consumption
+4.	Brake pad health based on deceleration patterns
+5.	Multiple vehicle modes (Sport, economy, power save, etc.)
+6.	Battery power represented in km or m remaining until depleted
+7.	Parking assistance via proximity sensors, rear camera, and wheel angle
+8.	Collision avoidance via proximity sensors and cameras
+9.	Notifications of open doors, wipers, etc.
+10.	Wheel angle displayed on dash
+11.	Option to display current brake/acceleration pedal pressure indicator option
+12.	Find my car feature using GPS and paired phone
+13.	Open window detection
+14.	Environment risk prevention notifications 
+15.	Forward facing cam can be used as a built-in dash cam with recorded sensor data
+16.	Auto-adjust option for internal temperature based on external temperature
+17.	Hands-free voice capability (calling via paired phone, voice commands)
+18.	Car adjusts time zones and all other relevant data automatically via GPS
+19.	Light sensor dims UI brightness depending on outdoor light levels
+20.	Cabin light controls (Front, back)
+21.	Window controls for all windows
+22.	Speaker balance adjustment
+23.	Emergency mode 
+24.	Can set a home wi-fi that the car connects to when it is in range (software updating, reporting)
+25.	Passenger seat screen controls
+26.	Bluetooth car communication
+27.	Rain detection with option to automatically activate wipers and close windows 
+28.	Automatic defogger based on interior and exterior temperatures
+29.	Remote car start
+30.	Dash cam render
+31.	4-way D controller used for dash cam controls
