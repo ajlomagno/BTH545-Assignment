@@ -16,7 +16,7 @@ Assignment 1
 14.	Environment risk prevention notifications 
 15.	Forward facing cam can be used as a built-in dash cam with recorded sensor data
 16.	Auto-adjust option for internal temperature based on external temperature
-17.	Hands-free voice capability (calling via paired phone, voice commands)
+17.	Hands-free voice capability (paired phone [sending/receiving texts, emails, making calls], voice commands)
 18.	Car adjusts time zones and all other relevant data automatically via GPS
 19.	Light sensor dims UI brightness depending on outdoor light levels
 20.	Cabin light controls (Front, back)
