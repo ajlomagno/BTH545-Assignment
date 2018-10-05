@@ -31,3 +31,4 @@ Assignment 1
 29.	Remote car start
 30.	Dash cam render
 31.	4-way D controller used for dash cam controls
+32. Background noise cancellation for microphone
