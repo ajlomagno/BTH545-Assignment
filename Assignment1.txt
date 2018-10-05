@@ -30,5 +30,5 @@ Assignment 1
 28.	Automatic defogger based on interior and exterior temperatures
 29.	Remote car start
 30.	Dash cam render
-31.	4-way D controller used for dash cam controls
+31.	4-way D controller used for certain dashboard functions
 32. Background noise cancellation for microphone
