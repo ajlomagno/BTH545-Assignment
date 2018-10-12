@@ -32,3 +32,4 @@ Assignment 1
 30.	Dash cam render
 31.	4-way D controller used for certain dashboard functions
 32. Background noise cancellation for microphone
+33. Car uses measurements from wheel rotations, wheel direction, gas and break pressure to document driving patterns and provide recommendations (eg. if driver tends to turn at speeds that are too high making their alignment go off fastr, they can get a warning/suggestions)
