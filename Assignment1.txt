@@ -8,7 +8,7 @@ Assignment 1
 6.	Battery power represented in km or m remaining until depleted
 7.	Parking assistance via proximity sensors, rear camera, and wheel angle
 8.	Collision avoidance via proximity sensors and cameras
-9.	Notifications of open doors, wipers, etc.
+9.	Notifications of open doors, lights, etc.
 10.	Wheel angle displayed on dash
 11.	Option to display current brake/acceleration pedal pressure indicator option
 12.	Find my car feature using GPS and paired phone
